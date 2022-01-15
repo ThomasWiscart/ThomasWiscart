@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @SherlockThomes
-- 👀 I’m interested in data science and cybersecurity
-- 🌱 I’m currently learning the Python, C++ and C programming language
+- ✌️ Bonjour, je m'appelle Thomas Wiscart
+- 🦾 Je m'intéresse au sujet de la data-science et l'intelligence artificielle
+- 🍱 Je suis en train d'apprendre le language de programmation Python, C++ et C
 
-<!---
-SherlockThomes/SherlockThomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
