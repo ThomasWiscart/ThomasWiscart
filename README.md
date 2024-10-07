@@ -1,4 +1,4 @@
 - 🪻 | Ravi de faire votre connaissance,
 - 🌹 | Je suis un passionné d'art, de musique et de technologie
 - 🌻 | Mes languages de programmation favoris sont Python, Neo4j et SQL
-- 📄 | [Mon CV](./CV - Thomas Wiscart.pdf)
+- 📄 | [Mon CV](CV - Thomas Wiscart.pdf)
